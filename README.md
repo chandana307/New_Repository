@@ -5,5 +5,5 @@
 Every work is pasted in this repository<br>
 <ol>
 And the projects 
-and the codes
+and the codes and project repository
 </ol>
